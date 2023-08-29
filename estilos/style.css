@@ -35,6 +35,13 @@ body{
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
 }
+.para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #22d422;
+    text-decoration: none ;
+}
 .link{
     display: flex;
     flex-direction: column;
