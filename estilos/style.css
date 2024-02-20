@@ -4,11 +4,11 @@
 body{
     box-sizing:border-box;
     
-    background-color: purple;
+    background-color: #4C586F;
     color:  #00ffff;
 }
 .titulo-destaque{
-    color: #22d422;
+    color: #98D4AF;
 }
 *{
     margin:0;
@@ -39,7 +39,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     font-weight: 600;
-    color: #22d422;
+    color: #98D4AF;
     text-decoration: none ;
 }
 .link{
@@ -74,19 +74,19 @@ body{
     font-size: 1.5rem;
 }
 .rodape{
-    padding: 24px;
+    padding: 5px;
     color: #000000 ;
     background-color: #22D4FD;
     text-align: center;
     font-family:'Montserrat', sans-serif;
     font-size: 1.5rem;
-    font-weight: 400;
+    font-weight: 100;
 }
 .linkmenu{
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     font-weight: 600;
-    color: #22d422;
+    color: #98D4AF;
     text-decoration: none ;
 }
 .cabecalho{
